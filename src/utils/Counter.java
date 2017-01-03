@@ -12,6 +12,7 @@ public class Counter {
 
 	HashMap<Character, Integer> characterMap = new HashMap<Character, Integer>();
 	Queue<Node> queue = new PriorityQueue<>();
+// Counts the frequency of each character in the input
 	Counter leftChild;
 	Counter rightChild;
 	public static String s = "";
