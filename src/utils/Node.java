@@ -5,6 +5,7 @@ public class Node implements Comparable<Object> {
 	private Character letter;
 	Integer weight;
 	Node left;
+// Represents a node in the Huffman tree
 	Node right;
 
 	public void setLeft(Node left) {
