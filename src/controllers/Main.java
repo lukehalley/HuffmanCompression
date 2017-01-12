@@ -22,6 +22,7 @@ public class Main {
 		Counter.ImportString();
 		c.stringAnalyse();
 
+// TODO: Add validation for input file format and error handling
 		Node root = c.createNode();
 		generateCodes(root, codeMap);
 		String s = binaryConvert(Counter.s, codeMap);
