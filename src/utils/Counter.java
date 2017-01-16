@@ -29,6 +29,7 @@ public class Counter {
 
 				s += stringScanner.nextLine();
 
+// Using HashMap for O(1) lookup performance
 			}
 
 		} catch (FileNotFoundException e) {
