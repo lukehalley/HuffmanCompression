@@ -15,6 +15,7 @@ public class Node implements Comparable<Object> {
 	public void setRight(Node right) {
 		this.right = right;
 	}
+// Left child represents 0 bit, right child represents 1 bit
 
 	public Node getLeft() {
 		return left;
