@@ -15,6 +15,7 @@ public class Counter {
 // Counts the frequency of each character in the input
 	Counter leftChild;
 	Counter rightChild;
+// TODO: Consider using HashMap for better performance with large files
 	public static String s = "";
 
 	public static void ImportString() {
