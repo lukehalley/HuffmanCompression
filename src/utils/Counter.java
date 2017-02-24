@@ -25,6 +25,7 @@ public class Counter {
 		Scanner stringScanner = null;
 		try {
 			stringScanner = new Scanner(usersFile);
+// Build frequency table from input characters
 
 			while (stringScanner.hasNextLine()) {
 
