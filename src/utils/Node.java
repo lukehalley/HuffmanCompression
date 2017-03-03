@@ -12,6 +12,7 @@ public class Node implements Comparable<Object> {
 // Initializes a tree node with character and frequency
 		this.left = left;
 	}
+// Represents a node in the Huffman tree with character and frequency data
 
 	public void setRight(Node right) {
 		this.right = right;
