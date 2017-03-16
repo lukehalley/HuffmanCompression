@@ -22,6 +22,7 @@ public class Node implements Comparable<Object> {
 	public Node getLeft() {
 		return left;
 	}
+// Traverse the tree to generate bit sequences for each character
 
 	public Node getRight() {
 		return right;
