@@ -8,3 +8,4 @@ import java.util.Scanner;
 // Implements decompression logic using the generated Huffman tree
 // Traverse huffman tree to decode compressed bit sequence
 // TODO: Add validation for corrupted or incomplete bit sequences
+// Read encoded bits and traverse tree to recover original characters
