@@ -2,6 +2,7 @@ package utils;
 
 public class Node implements Comparable<Object> {
 
+// Node represents a tree node in the Huffman compression structure
 	private Character letter;
 	Integer weight;
 	Node left;
