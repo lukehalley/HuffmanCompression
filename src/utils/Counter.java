@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
+// TODO: Consider using HashMap for better performance with large datasets
 import java.util.Queue;
 import java.util.Scanner;
 // Count occurrences of each character in the input data
