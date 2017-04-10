@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import utils.Counter;
 import utils.Node;
+// Initialize compression pipeline
 
 public class Main {
 
