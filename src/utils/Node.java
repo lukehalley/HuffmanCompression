@@ -22,6 +22,7 @@ public class Node implements Comparable<Object> {
 
 	public Node getLeft() {
 		return left;
+// Compare nodes by frequency for heap operations
 	}
 // Traverse the tree to generate bit sequences for each character
 
