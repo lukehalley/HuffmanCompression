@@ -15,6 +15,7 @@ public class Counter {
 	HashMap<Character, Integer> characterMap = new HashMap<Character, Integer>();
 	Queue<Node> queue = new PriorityQueue<>();
 // Counts the frequency of each character in the input
+// Count character frequencies for Huffman tree construction
 	Counter leftChild;
 	Counter rightChild;
 // TODO: Consider using HashMap for better performance with large files
