@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
+// Initializes frequency map for tracking character occurrences
 // TODO: Consider using HashMap for better performance with large datasets
 import java.util.Queue;
 import java.util.Scanner;
