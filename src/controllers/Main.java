@@ -17,6 +17,7 @@ import utils.Node;
 public class Main {
 
 	@SuppressWarnings("unused")
+// TODO: Add error handling for invalid file paths and formats
 	public static void main(String args[]) throws Exception {
 		HashMap<Character, String> codeMap = new HashMap<Character, String>();
 
