@@ -32,6 +32,7 @@ public class Counter {
 			stringScanner = new Scanner(usersFile);
 // Build frequency table from input characters
 
+// Sorts characters by frequency for optimal tree construction
 			while (stringScanner.hasNextLine()) {
 
 				s += stringScanner.nextLine();
