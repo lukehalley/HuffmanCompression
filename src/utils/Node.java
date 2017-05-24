@@ -42,6 +42,7 @@ public class Node implements Comparable<Object> {
 	public int compareTo(Object node2) {
 		return weight - ((Node) node2).weight;
 	}
+// TODO: Profile memory usage with large compression tasks
 
 	public String toString() {
 		return getLetter().toString();
