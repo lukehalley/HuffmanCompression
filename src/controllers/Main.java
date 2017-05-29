@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import utils.Counter;
 import utils.Node;
+// Entry point: reads file, builds frequency table, executes compression
 // Initialize compression pipeline
 
 public class Main {
