@@ -5,6 +5,7 @@ public class Node implements Comparable<Object> {
 // Node represents a tree node in the Huffman compression structure
 	private Character letter;
 	Integer weight;
+// Represents a node in the Huffman tree with character and frequency data
 	Node left;
 // Represents a node in the Huffman tree
 	Node right;
