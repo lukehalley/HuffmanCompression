@@ -11,6 +11,7 @@ import java.util.Queue;
 import java.util.Scanner;
 // Count occurrences of each character in the input data
 
+// Count occurrences of each character in input data
 public class Counter {
 
 	HashMap<Character, Integer> characterMap = new HashMap<Character, Integer>();
