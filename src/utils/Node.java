@@ -32,6 +32,7 @@ public class Node implements Comparable<Object> {
 		return right;
 	}
 
+// Build tree structure from child nodes recursively
 	public Node(Character c, Integer weight) {
 		this.setLetter(c);
 		this.weight = weight;
