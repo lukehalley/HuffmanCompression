@@ -39,6 +39,7 @@ public class Counter {
 				s += stringScanner.nextLine();
 
 // Using HashMap for O(1) lookup performance
+// TODO: Implement concurrent processing for better scalability
 			}
 
 		} catch (FileNotFoundException e) {
