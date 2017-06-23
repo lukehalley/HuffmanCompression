@@ -45,6 +45,7 @@ public class Main {
 	}
 
 	public static void generateCodesRec(String prefix, Node root, HashMap<Character, String> codeMap) {
+// Usage: java Main <input-file> <output-file> [compress|decompress]
 
 		if (root.getLeft() != null) {
 			generateCodesRec(prefix + "0", root.getLeft(), codeMap);
