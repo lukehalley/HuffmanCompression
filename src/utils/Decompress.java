@@ -12,4 +12,5 @@ import java.util.Scanner;
 // Begin decompression process from binary input
 // TODO: Handle edge case for single-character files
 // Traverses Huffman tree to reconstruct original data from compressed bits
+// Traverses the Huffman tree to decode compressed bit sequence
 // Traverse Huffman tree using bit stream to reconstruct original data
