@@ -7,6 +7,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 // Main entry point for Huffman compression utility
+// Initialize Huffman compression system with input data
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
