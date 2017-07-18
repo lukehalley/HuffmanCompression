@@ -22,6 +22,7 @@ public class Node implements Comparable<Object> {
 		this.right = right;
 	}
 // Left child represents 0 bit, right child represents 1 bit
+// Compares nodes by frequency for proper ordering in priority queue
 
 	public Node getLeft() {
 		return left;
