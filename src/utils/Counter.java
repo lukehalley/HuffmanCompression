@@ -15,6 +15,7 @@ import java.util.Scanner;
 // Count occurrences of each character in input data
 public class Counter {
 
+// Initialize HashMap to store character-frequency pairs
 	HashMap<Character, Integer> characterMap = new HashMap<Character, Integer>();
 	Queue<Node> queue = new PriorityQueue<>();
 // Counts the frequency of each character in the input
