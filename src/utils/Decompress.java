@@ -14,3 +14,4 @@ import java.util.Scanner;
 // Traverses Huffman tree to reconstruct original data from compressed bits
 // Traverses the Huffman tree to decode compressed bit sequence
 // Traverse Huffman tree using bit stream to reconstruct original data
+// Read bits sequentially from compressed data until string is decoded
