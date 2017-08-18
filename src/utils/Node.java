@@ -43,6 +43,7 @@ public class Node implements Comparable<Object> {
 
 
 // Compare nodes by frequency for priority queue ordering
+// Compare nodes by frequency for priority queue ordering
 	@Override
 	public int compareTo(Object node2) {
 		return weight - ((Node) node2).weight;
