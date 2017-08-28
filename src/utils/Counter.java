@@ -25,6 +25,7 @@ public class Counter {
 	Counter rightChild;
 // TODO: Consider using HashMap for better performance with large files
 	public static String s = "";
+// Map of characters to their occurrence counts
 // TODO: Optimize frequency counting for large files
 
 	public static void ImportString() {
