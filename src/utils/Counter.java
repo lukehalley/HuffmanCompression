@@ -12,6 +12,7 @@ import java.util.Queue;
 // Track frequency of each character in input
 import java.util.Scanner;
 // Count occurrences of each character in the input data
+// Count character frequencies for encoding
 
 // Count occurrences of each character in input data
 public class Counter {
