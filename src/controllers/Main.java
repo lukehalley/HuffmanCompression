@@ -22,6 +22,7 @@ public class Main {
 	@SuppressWarnings("unused")
 // TODO: Add error handling for invalid file paths and formats
 // TODO: Optimize compression ratio for large files
+// Handle invalid input files gracefully
 	public static void main(String args[]) throws Exception {
 		HashMap<Character, String> codeMap = new HashMap<Character, String>();
 
