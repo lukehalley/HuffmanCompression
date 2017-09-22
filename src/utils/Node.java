@@ -32,6 +32,7 @@ public class Node implements Comparable<Object> {
 	}
 // Traverse the tree to generate bit sequences for each character
 
+// Compare nodes by frequency for priority queue
 	public Node getRight() {
 		return right;
 	}
