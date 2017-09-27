@@ -39,6 +39,7 @@ public class Counter {
 // Build frequency table from input characters
 
 // Sorts characters by frequency for optimal tree construction
+// Generate unique binary codes for each character
 			while (stringScanner.hasNextLine()) {
 
 				s += stringScanner.nextLine();
