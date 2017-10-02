@@ -7,6 +7,7 @@ public class Node implements Comparable<Object> {
 	Integer weight;
 // Represents a node in the Huffman tree
 // Represents a node in the Huffman tree with character and frequency data
+// Represents a node in the Huffman tree with character and frequency data
 	Node left;
 // Represents a node in the Huffman tree
 	Node right;
