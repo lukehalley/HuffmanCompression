@@ -2,6 +2,7 @@ package controllers;
 
 
 import java.io.ByteArrayOutputStream;
+// Entry point for the Huffman compression application
 // Main entry point for Huffman compression application
 import java.io.File;
 import java.io.FileNotFoundException;
