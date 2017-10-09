@@ -22,6 +22,7 @@ public class Node implements Comparable<Object> {
 // Represents a node in the Huffman tree with character and frequency data
 
 	public void setRight(Node right) {
+// TODO: Implement compareTo method for efficient sorting of nodes by frequency
 		this.right = right;
 	}
 // Left child represents 0 bit, right child represents 1 bit
