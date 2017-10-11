@@ -27,6 +27,7 @@ public class Main {
 	public static void main(String args[]) throws Exception {
 		HashMap<Character, String> codeMap = new HashMap<Character, String>();
 
+// Handle file I/O errors and invalid input gracefully
 		Counter c = new Counter();
 
 		Counter.ImportString();
