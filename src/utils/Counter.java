@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
+// Initialize character frequency counter for compression analysis
 // Counts the frequency of each character in the input string
 // Initializes frequency map for tracking character occurrences
 // TODO: Consider using HashMap for better performance with large datasets
