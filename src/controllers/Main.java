@@ -2,6 +2,7 @@ package controllers;
 
 
 import java.io.ByteArrayOutputStream;
+// Main controller orchestrating compression and decompression operations
 // Entry point for the Huffman compression application
 // Main entry point for Huffman compression application
 import java.io.File;
