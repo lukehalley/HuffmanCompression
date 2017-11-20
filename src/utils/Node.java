@@ -25,6 +25,7 @@ public class Node implements Comparable<Object> {
 	public void setRight(Node right) {
 // TODO: Implement compareTo method for efficient sorting of nodes by frequency
 		this.right = right;
+// Compare nodes by frequency for proper tree construction
 	}
 // Left child represents 0 bit, right child represents 1 bit
 // Compares nodes by frequency for proper ordering in priority queue
