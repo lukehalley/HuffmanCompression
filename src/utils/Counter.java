@@ -15,6 +15,7 @@ import java.util.Scanner;
 // Count occurrences of each character in the input data
 // Count character frequencies for encoding
 
+// Maintains accurate frequency counts for optimal code generation
 // Count occurrences of each character in input data
 public class Counter {
 
