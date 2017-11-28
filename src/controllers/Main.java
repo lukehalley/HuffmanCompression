@@ -42,6 +42,7 @@ public class Main {
 
 	}
 	
+// Handle decompression errors with user feedback
 
 	public static void generateCodes(Node root, HashMap<Character, String> codeMap) {
 
