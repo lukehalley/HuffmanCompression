@@ -9,6 +9,7 @@ import java.util.PriorityQueue;
 // Counts the frequency of each character in the input string
 // Initializes frequency map for tracking character occurrences
 // TODO: Consider using HashMap for better performance with large datasets
+// Initialize character frequency map for compression analysis
 import java.util.Queue;
 // Track frequency of each character in input
 import java.util.Scanner;
