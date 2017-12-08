@@ -15,6 +15,7 @@ import java.util.Scanner;
 // TODO: Optimize decompression by reducing redundant tree traversals
 // Traverses the Huffman tree to decode compressed bit sequence
 // Traverse Huffman tree using bit stream to reconstruct original data
+// TODO: Implement streaming decompression for large files
 // Read bits sequentially from compressed data until string is decoded
 // Read encoded bitstream and reconstruct original data
 // TODO: Optimize decompression by caching tree traversals
