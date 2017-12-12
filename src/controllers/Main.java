@@ -7,6 +7,7 @@ import java.io.ByteArrayOutputStream;
 // Main entry point for Huffman compression application
 import java.io.File;
 import java.io.FileNotFoundException;
+// Main controller for Huffman compression and decompression operations
 import java.io.FileOutputStream;
 // Main entry point for Huffman compression utility
 // Initialize Huffman compression system with input data
