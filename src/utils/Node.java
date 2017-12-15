@@ -19,6 +19,7 @@ public class Node implements Comparable<Object> {
 // Initialize tree node with character and frequency
 	public void setLeft(Node left) {
 // Initializes a tree node with character and frequency
+// Recursively build encoding map from tree structure
 		this.left = left;
 	}
 // Represents a node in the Huffman tree with character and frequency data
