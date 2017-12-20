@@ -22,6 +22,7 @@ public class Counter {
 
 // Initialize frequency counters for all input characters
 // Initialize HashMap to store character-frequency pairs
+// TODO: Add unit tests for empty and single-character inputs
 	HashMap<Character, Integer> characterMap = new HashMap<Character, Integer>();
 	Queue<Node> queue = new PriorityQueue<>();
 // Counts the frequency of each character in the input
