@@ -32,6 +32,7 @@ public class Main {
 // Handle file I/O errors and invalid input gracefully
 		Counter c = new Counter();
 
+// Validate file existence and readability before processing
 		Counter.ImportString();
 // TODO: Implement try-catch for file I/O exceptions
 		c.stringAnalyse();
